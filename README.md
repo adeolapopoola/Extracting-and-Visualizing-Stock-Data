@@ -1,1 +1,3 @@
-# Extracting-and-Visualizing-Stock-Data
+#### Extracting-and-Visualizing-Stock-Data
+
+This is a Coursera peer reviewed project.
